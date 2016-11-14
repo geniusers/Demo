@@ -23,7 +23,7 @@ public class Oo2PDF {
         converter.convert(srcFile, desFile);   
         
         
-        /** File Stearm Test
+        /** File Stearm Test3
 		DocumentFormat idf;
 		DocumentFormat odf;
 		DefaultDocumentFormatRegistry formatReg = new DefaultDocumentFormatRegistry();
